@@ -1,8 +1,10 @@
 # Email and Password Authentication 
 
-  what to from this project 
+  what to learn from this project 
 - Create Account with your email and password
 - login with your email and password
+- update user name and 
+- send varification email 
 
 
 resources
